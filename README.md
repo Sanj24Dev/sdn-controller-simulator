@@ -66,7 +66,7 @@ This simulates:
   <Li>Central SDN controller managing flows</Li>
 </ul>
 The simulation should generate the following output:
-
+![SDN Output](sdn-output.png)
 
 ## Project Structure
 sdn/ <br>
