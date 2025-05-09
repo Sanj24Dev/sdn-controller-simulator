@@ -81,7 +81,7 @@ sdn/ <br>
 │ ├── sdn-swtich.h <br>
 │ ├── sdn-flow-table.cc <br>
 │ └── sdn-flow-table.h <br>
-├── CMakeLists.txt # Build script for the module <br>
+└── CMakeLists.txt # Build script for the module <br>
 
 ## Contributing
 
@@ -91,28 +91,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 - [NS-3 Official Website](https://www.nsnam.org/)
 - [OpenFlow Switch Support](https://www.nsnam.org/docs/models/html/openflow-switch.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
