@@ -65,8 +65,8 @@ This simulates:
   <li>2 End nodes with 2 packets being transmitted</li>
   <Li>Central SDN controller managing flows</Li>
 </ul>
-The simulation should generate the following output:
-![SDN Output](sdn-output.png)
+The simulation should generate the following output: <br>
+![SDN Output](sdn-output.jpg)
 
 ## Project Structure
 sdn/ <br>
